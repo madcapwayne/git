@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="This is my publish destination"
+  Host="dev97614.service-now.com"
+  User="MyAccountId"
+  Password=""
+  Directory="oauth_token.do"
+  Port=""
+  ViewUrl="http://www.madcapsoftware.com/"
+  Type="servicenow"
+  ClickUrl="https://dev97614.service-now.com"
+  DefaultKnowledgeBase="a7e8a78bff0221009b20ffffffffff17"
+  WorkflowState="published"
+  ChangedOnly="false"
+  TocDefinesCats="false"
+  DefaultCategory="6545e5542f133010d186f7ecf699b69d"
+  RemoveStale="false"
+  DestinationId="a3d3acea-7453-448f-9df5-70128ad12d70"></CatapultDestination>
